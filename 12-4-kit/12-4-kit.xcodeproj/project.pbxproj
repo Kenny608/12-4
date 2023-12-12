@@ -11,6 +11,7 @@
 		EDFFF65A2B27D89E006C0611 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDFFF6592B27D89E006C0611 /* ContentView.swift */; };
 		EDFFF65C2B27D89F006C0611 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDFFF65B2B27D89F006C0611 /* Assets.xcassets */; };
 		EDFFF6602B27D89F006C0611 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDFFF65F2B27D89F006C0611 /* Preview Assets.xcassets */; };
+		EDFFF6672B27DE12006C0611 /* feature_diagram.pdf in Resources */ = {isa = PBXBuildFile; fileRef = EDFFF6662B27DE12006C0611 /* feature_diagram.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		EDFFF65B2B27D89F006C0611 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EDFFF65D2B27D89F006C0611 /* _2_4_kit.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = _2_4_kit.entitlements; sourceTree = "<group>"; };
 		EDFFF65F2B27D89F006C0611 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EDFFF6662B27DE12006C0611 /* feature_diagram.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = feature_diagram.pdf; path = ../../../../Downloads/feature_diagram.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				EDFFF6572B27D89E006C0611 /* _2_4_kitApp.swift */,
+				EDFFF6662B27DE12006C0611 /* feature_diagram.pdf */,
 				EDFFF6592B27D89E006C0611 /* ContentView.swift */,
 				EDFFF65B2B27D89F006C0611 /* Assets.xcassets */,
 				EDFFF65D2B27D89F006C0611 /* _2_4_kit.entitlements */,
@@ -127,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EDFFF6672B27DE12006C0611 /* feature_diagram.pdf in Resources */,
 				EDFFF6602B27D89F006C0611 /* Preview Assets.xcassets in Resources */,
 				EDFFF65C2B27D89F006C0611 /* Assets.xcassets in Resources */,
 			);
